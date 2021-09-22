@@ -1,0 +1,16 @@
+[
+  {
+    "nom": "AYDOGAN",
+    "prenom": "Lokman",
+    "age": 23,
+    "voiture": null,
+    "motos": "z800"
+  },
+  {
+    "nom": "DOS SANTOS",
+    "prenom": "Miguel",
+    "age": 21,
+    "voiture": "Audi A4",
+    "motos": null
+  }
+]
